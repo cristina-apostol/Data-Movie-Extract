@@ -12,7 +12,7 @@
 3.[Coclusiones](#consultas)
 
 
-<a name="Contexto"/>
+<a name="Contexto 🎬"/>
 
 ## Contexto 🎬
 
@@ -23,7 +23,7 @@ En este caso, se ha analizado una base de datos sobre un ranking de películas s
 
 A continuación, el análisis detallado de todo el proceso.
 
-<a name="Procedimiento"/>
+<a name="Procedimiento 🎥"/>
 
 ## Procedimiento 🎥
 
@@ -99,7 +99,7 @@ El último paso, fue exportarlo todo a SQL, y realizar una pequeña consulta sob
 <br></details>
 
 
-<a name="Conclusiones"/>
+<a name="Conclusiones 🎞️"/>
 
 ## Conclusiones 🎞️
 
