@@ -8,7 +8,9 @@
 ## Índice
 
  #### 1. [Contexto](#contexto)\
+ 
  #### 2. [Procedimiento](#procedimiento)\
+ 
  #### 3. [Resultados ](#resultados)
 
 
@@ -88,13 +90,13 @@ Finalmente, se han extraído las columnas que interesaban para el análisis, res
 
 <details>
 
-<summary>Exportar a SQL</summary>
+<summary>Exportar datos a SQL</summary>
 
 <br>
 
 El último paso, fue exportarlo todo a SQL para obtener la siguiente base de datos:
 
-
+![](/images/sql.png)
 <br></details>
 
 
@@ -102,18 +104,17 @@ El último paso, fue exportarlo todo a SQL para obtener la siguiente base de dat
 
 ## Resultados 🎞️
 
-Como resultado del análisis final, se han planteado las siguientes propuestas:
+Como análisis final del proyecto, se han planteado las siguientes propuestas:
 
 
-¿Cuáles fueron las cinco mejores películas, y sus diferentes notas según cada fuente?
+- ¿Cuáles fueron las cinco mejores películas?
 
-![](image/title.png)
+![](/images/title.png)
 
-¿Qué cinco directores tienen más peliculas en el ranking planteado?
+- ¿Qué seis directores tienen más peliculas en el ranking planteado?
 
-![](image/director.png)
+![](/images/director.png)
 
-¿Qué cinco países tienen más películas dentro del ranking?
+- ¿Qué cinco países tienen más películas dentro del ranking?
 
-![](image/paises.png)
-
+![](/images/paises.png)
