@@ -7,9 +7,9 @@
 
 ## Índice
 
- #### 1. [Contexto](#contexto)\
+ #### 1. [Contexto](#contexto)
  
- #### 2. [Procedimiento](#procedimiento)\
+ #### 2. [Procedimiento](#procedimiento)
  
  #### 3. [Resultados ](#resultados)
 
