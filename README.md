@@ -7,9 +7,9 @@
 
 ## Índice
 
-1.[Contexto](#contexto)\
-2.[Procedimiento](#procedimiento)\
-3.[Coclusiones](#consultas)
+ #### 1. [Contexto](#contexto)\
+ #### 2. [Procedimiento](#procedimiento)\
+ #### 3. [Resultados ](#resultados)
 
 
 <a name="Contexto 🎬"/>
@@ -29,7 +29,7 @@ A continuación, el análisis detallado de todo el proceso.
 
 <details>
 
-<summary>Base de datos IMDB</summary>
+<summary>Extracción base de datos IMDB</summary>
 
 <br>
 
@@ -66,7 +66,7 @@ El resultado final, fue una lista con las diferentes plataformas que se ha añad
 
 <details>
 
-<summary>Base de datos FilmAffinitty</summary>
+<summary>Extracción base de datos FilmAffinitty</summary>
 
 <br>
 
@@ -92,15 +92,28 @@ Finalmente, se han extraído las columnas que interesaban para el análisis, res
 
 <br>
 
-El último paso, fue exportarlo todo a SQL, y realizar una pequeña consulta sobre la tabla, que en este caso fue:
+El último paso, fue exportarlo todo a SQL para obtener la siguiente base de datos:
 
-- Top 5 mejores películas, comparando el rating de ambas fuentes.
 
 <br></details>
 
 
-<a name="Conclusiones 🎞️"/>
+<a name="Resultados 🎞️"/>
 
-## Conclusiones 🎞️
+## Resultados 🎞️
 
-Como conslusiones del proyecto, destacar 
+Como resultado del análisis final, se han planteado las siguientes propuestas:
+
+
+¿Cuáles fueron las cinco mejores películas, y sus diferentes notas según cada fuente?
+
+![](image/title.png)
+
+¿Qué cinco directores tienen más peliculas en el ranking planteado?
+
+![](image/director.png)
+
+¿Qué cinco países tienen más películas dentro del ranking?
+
+![](image/paises.png)
+
